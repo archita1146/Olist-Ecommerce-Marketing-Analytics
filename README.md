@@ -27,4 +27,4 @@ Loyal Customers — These are the most loyal customers. They are active with fre
 
 Champions Big Spenders - It is always a good idea to carefully “incubate” all new customers, but because these customers spent a lot on their purchase, it’s even more important. Like with the Best Customers group, it’s important to make them feel valued and appreciated – and to give them terrific incentives to continue interacting with the brand.
 
-![alt text](https://github.com/archita1146/Olist-Ecommerce-Marketing-Analytics/image.jpg?raw=true)
+![alt text](https://github.com/archita1146/Olist-Ecommerce-Marketing-Analytics/blob/main/newplot.png)
